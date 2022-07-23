@@ -4,3 +4,4 @@
 > 
 >PROYECTO DE JAVA WEB DE BORIS
 
+archivo sql en la carpeta raiz
